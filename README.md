@@ -11,7 +11,7 @@ This is my personal static website hosted on **GitHub Pages**.
 This website is built using:
 - HTML
 - CSS
-- (JavaScript
+- JavaScript
 
 It's a simple Rock Papper Scissors webpage deployed for free using GitHub Pages.
 
